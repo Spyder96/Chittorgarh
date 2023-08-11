@@ -54,7 +54,6 @@ class BuybackAnalyzerApp:
 
         df = df[['Company Name', 'Record Date', 'Issue Open', 'Issue Close', 'Profit',
                 'Issue Size - Shares (Cr)', 'Issue Size - Amount (Cr)', 'BuyBack price (Per Share)', 'Current Market Price']]
-
         return df
 
     def _get_sorted_file_list(self):
