@@ -1,0 +1,123 @@
+{
+    "IPO Date": "Aug 10, 2023 to Aug 14, 2023",
+    "Listing Date": "Wednesday, 23 August 2023",
+    "Face Value": "₹1 per share",
+    "Price": "₹187 to ₹197 per share",
+    "Lot Size": "76 Shares",
+    "Total Issue Size": "44,670,051 shares (aggregating up to ₹880.00 Cr)",
+    "Fresh Issue": "30,456,853 shares (aggregating up to ₹600.00 Cr)",
+    "Offer for Sale": "14,213,198 shares of ₹1 (aggregating up to ₹280.00 Cr)",
+    "Issue Type": "Book Built Issue IPO",
+    "Listing At": "BSE, NSE",
+    "Share holding pre issue": "406953160",
+    "Share holding post issue": "437410013",
+    "Anchor Investor Shares Offered": "20,101,522 (45.00%)",
+    "QIB Shares Offered": "13,401,016 (30.00%)",
+    "NII (HNI) Shares Offered": "6,700,507 (15.00%)",
+    "Retail Shares Offered": "4,467,005 (10.00%)",
+    "Total Shares Offered": "44,670,051 (100%)",
+    "Bid Date": "Aug 9, 2023",
+    "Shares Offered": "20101522",
+    "Anchor Portion Size (In Cr.)": "396.00",
+    "Anchor lock-in period end date for 50% shares (30 Days)": "Oct 3, 2023",
+    "Anchor lock-in period end date for remaining shares (90 Days)": "Jan 1, 2024",
+    "IPO Open Date": "Thursday, 10 August 2023",
+    "IPO Close Date": "Monday, 14 August 2023",
+    "Basis of Allotment": "Friday, 18 August 2023",
+    "Initiation of Refunds": "Monday, 21 August 2023",
+    "Credit of Shares to Demat": "Tuesday, 22 August 2023",
+    "Cut-off time for UPI mandate confirmation": "5 PM on Aug 14, 2023",
+    "Applications": [
+        {
+            "Retail (Min)": {
+                "Lots": "1",
+                "Shares": "76",
+                "Amount": "₹14,972"
+            }
+        },
+        {
+            "Retail (Max)": {
+                "Lots": "13",
+                "Shares": "988",
+                "Amount": "₹194,636"
+            }
+        },
+        {
+            "S-HNI (Min)": {
+                "Lots": "14",
+                "Shares": "1064",
+                "Amount": "₹209,608"
+            }
+        },
+        {
+            "S-HNI (Max)": {
+                "Lots": "66",
+                "Shares": "5016",
+                "Amount": "₹988,152"
+            }
+        },
+        {
+            "B-HNI (Min)": {
+                "Lots": "67",
+                "Shares": "5092",
+                "Amount": "₹1,003,124"
+            }
+        },
+        {
+            "Lot Size Calculator": {
+                "Lots": "Lot Size Calculator",
+                "Shares": "Lot Size Calculator",
+                "Amount": "Lot Size Calculator"
+            }
+        }
+    ],
+    "Pre Issue Share Holding": "46.65%",
+    "Post Issue Share Holding": "41.6%",
+    "Period Ended": "31 Mar 2020",
+    "Assets": "5462.92",
+    "Revenue": "6792.76",
+    "Profit After Tax": "-248.00",
+    "Net Worth": "510.80",
+    "Reserves and Surplus": "493.35",
+    "Total Borrowing": "2160.12",
+    "Key_Performance_Indicators": {
+        "P/E (x)": "189.42",
+        "Market Cap (₹ Cr.)": "8746",
+        "ROE": "5.50%",
+        "ROCE": "7.64%",
+        "EPS (Rs)": "1.04",
+        "RoNW": "5.50%"
+    },
+    "Subscription_Details": [
+        {
+            "QIB": 0.15
+        },
+        {
+            "NII": 1.06
+        },
+        {
+            "bNII (bids above ₹10L)": 1.19
+        },
+        {
+            "sNII (bids below ₹10L)": 0.78
+        },
+        {
+            "Retail": 3.78
+        },
+        {
+            "Total": 1.06
+        }
+    ],
+    "Reviews": {
+        "Brokers": {
+            "Subscribe": 9,
+            "Neutral": 0,
+            "Avoid": 0
+        },
+        "Members": {
+            "Subscribe": 1,
+            "Neutral": 5,
+            "Avoid": 2
+        }
+    }
+}

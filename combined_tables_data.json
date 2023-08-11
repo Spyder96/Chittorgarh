@@ -1,0 +1,277 @@
+[
+    {
+        "0": "googletag.cmd.push(function() { googletag.display('div-gpt-ad-1643200833940-0');  googletag.pubads().refresh([gptAdSlots[0]]);  });  //googletag.cmd.push(function() { googletag.display('div-gpt-ad-1643200833940-0'); setInterval(function(){googletag.pubads().refresh([_Mrec2]);}, 120000);});"
+    },
+    {
+        "0": "IPO Date",
+        "1": "Aug 10, 2023 to Aug 14, 2023"
+    },
+    {
+        "0": "Listing Date",
+        "1": "[.]"
+    },
+    {
+        "0": "Face Value",
+        "1": "₹1 per share"
+    },
+    {
+        "0": "Price",
+        "1": "₹187 to ₹197 per share"
+    },
+    {
+        "0": "Lot Size",
+        "1": "76 Shares"
+    },
+    {
+        "0": "Total Issue Size",
+        "1": "44,670,051 shares (aggregating up to ₹880.00 Cr)"
+    },
+    {
+        "0": "Fresh Issue",
+        "1": "30,456,853 shares (aggregating up to ₹600.00 Cr)"
+    },
+    {
+        "0": "Offer for Sale",
+        "1": "14,213,198 shares of ₹1 (aggregating up to ₹280.00 Cr)"
+    },
+    {
+        "0": "Issue Type",
+        "1": "Book Built Issue IPO"
+    },
+    {
+        "0": "Listing At",
+        "1": "BSE, NSE"
+    },
+    {
+        "0": "Share holding pre issue",
+        "1": "406953160"
+    },
+    {
+        "0": "Share holding post issue",
+        "1": "437410013"
+    },
+    {
+        "0": "Anchor Investor Shares Offered",
+        "1": "20,101,522 (45.00%)"
+    },
+    {
+        "0": "QIB Shares Offered",
+        "1": "13,401,016 (30.00%)"
+    },
+    {
+        "0": "NII (HNI) Shares Offered",
+        "1": "6,700,507 (15.00%)"
+    },
+    {
+        "0": "Retail Shares Offered",
+        "1": "4,467,005 (10.00%)"
+    },
+    {
+        "0": "Total Shares Offered",
+        "1": "44,670,051 (100%)"
+    },
+    {
+        "0": "Bid Date",
+        "1": "Aug 9, 2023"
+    },
+    {
+        "0": "Shares Offered",
+        "1": "20101522"
+    },
+    {
+        "0": "Anchor Portion Size (In Cr.)",
+        "1": "396.00"
+    },
+    {
+        "0": "Anchor lock-in period end date for 50% shares (30 Days)",
+        "1": "Oct 3, 2023"
+    },
+    {
+        "0": "Anchor lock-in period end date for remaining shares (90 Days)",
+        "1": "Jan 1, 2024"
+    },
+    {
+        "0": "IPO Open Date",
+        "1": "Thursday, 10 August 2023"
+    },
+    {
+        "0": "IPO Close Date",
+        "1": "Monday, 14 August 2023"
+    },
+    {
+        "0": "Basis of Allotment",
+        "1": "Friday, 18 August 2023"
+    },
+    {
+        "0": "Initiation of Refunds",
+        "1": "Monday, 21 August 2023"
+    },
+    {
+        "0": "Credit of Shares to Demat",
+        "1": "Tuesday, 22 August 2023"
+    },
+    {
+        "0": "Listing Date",
+        "1": "Wednesday, 23 August 2023"
+    },
+    {
+        "0": "Cut-off time for UPI mandate confirmation",
+        "1": "5 PM on Aug 14, 2023"
+    },
+    {
+        "Application": "Retail (Min)",
+        "Lots": "1",
+        "Shares": "76",
+        "Amount": "₹14,972"
+    },
+    {
+        "Application": "Retail (Max)",
+        "Lots": "13",
+        "Shares": "988",
+        "Amount": "₹194,636"
+    },
+    {
+        "Application": "S-HNI (Min)",
+        "Lots": "14",
+        "Shares": "1064",
+        "Amount": "₹209,608"
+    },
+    {
+        "Application": "S-HNI (Max)",
+        "Lots": "66",
+        "Shares": "5016",
+        "Amount": "₹988,152"
+    },
+    {
+        "Application": "B-HNI (Min)",
+        "Lots": "67",
+        "Shares": "5092",
+        "Amount": "₹1,003,124"
+    },
+    {
+        "Application": "Lot Size Calculator",
+        "Lots": "Lot Size Calculator",
+        "Shares": "Lot Size Calculator",
+        "Amount": "Lot Size Calculator"
+    },
+    {
+        "0": "Pre Issue Share Holding",
+        "1": "46.65%"
+    },
+    {
+        "0": "Post Issue Share Holding",
+        "1": "41.6%"
+    },
+    {
+        "0": "Period Ended",
+        "1": "31 Mar 2020",
+        "2": "31 Mar 2021",
+        "3": "31 Mar 2022",
+        "4": "31 Mar 2023"
+    },
+    {
+        "0": "Assets",
+        "1": "5462.92",
+        "2": "4990.06",
+        "3": "5789.73",
+        "4": "6210.92"
+    },
+    {
+        "0": "Revenue",
+        "1": "6792.76",
+        "2": "6999.69",
+        "3": "9299.94",
+        "4": "10311.01"
+    },
+    {
+        "0": "Profit After Tax",
+        "1": "-248.00",
+        "2": "-76.34",
+        "3": "-45.80",
+        "4": "41.76"
+    },
+    {
+        "0": "Net Worth",
+        "1": "510.80",
+        "2": "490.69",
+        "3": "714.00",
+        "4": "723.55"
+    },
+    {
+        "0": "Reserves and Surplus",
+        "1": "493.35",
+        "2": "473.94",
+        "3": "713.76",
+        "4": "774.19"
+    },
+    {
+        "0": "Total Borrowing",
+        "1": "2160.12",
+        "2": "1547.92",
+        "3": "1763.78",
+        "4": "1989.62"
+    },
+    {
+        "KPI": "P/E (x)",
+        "Values": "189.42"
+    },
+    {
+        "KPI": "Market Cap (₹ Cr.)",
+        "Values": "8746"
+    },
+    {
+        "KPI": "ROE",
+        "Values": "5.50%"
+    },
+    {
+        "KPI": "ROCE",
+        "Values": "7.64%"
+    },
+    {
+        "KPI": "EPS (Rs)",
+        "Values": "1.04"
+    },
+    {
+        "KPI": "RoNW",
+        "Values": "5.50%"
+    },
+    {
+        "Category": "QIB",
+        "Subscription (times)": 0.15
+    },
+    {
+        "Category": "NII",
+        "Subscription (times)": 1.06
+    },
+    {
+        "Category": "bNII (bids above ₹10L)",
+        "Subscription (times)": 1.19
+    },
+    {
+        "Category": "sNII (bids below ₹10L)",
+        "Subscription (times)": 0.78
+    },
+    {
+        "Category": "Retail",
+        "Subscription (times)": 3.78
+    },
+    {
+        "Category": "Total",
+        "Subscription (times)": 1.06
+    },
+    {
+        "Review By": "Brokers",
+        "Subscribe": 9,
+        "Neutral": 0,
+        "Avoid": 0
+    },
+    {
+        "Review By": "Members",
+        "Subscribe": 1,
+        "Neutral": 5,
+        "Avoid": 2
+    },
+    {
+        "0": "googletag.cmd.push(function() { googletag.display('div-gpt-ad-1651808387027-0'); googletag.pubads().refresh([gptAdSlots[3]]);  });"
+    }
+]
