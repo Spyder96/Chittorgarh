@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>IPO Transaction Entry</title>
+</head>
+<body>
+    <h1>IPO Transaction Entry</h1>
+    <form id="transaction-form">
+        <label for="ipo-name">IPO Name:</label>
+        <select name="ipo-name" id="ipo-name">
+            {% for ipo in ipos %}
+                <option value="{{ ipo['Company Name'] }}">{{ ipo['Company Name'] }}</option>
+            {% endfor %}
+        </select><br>
+
+        <label for="price">Price:</label>
+        <input type="text" name="price" id="price"><br>
+
+        <label for="date">Date:</label>
+        <input type="text" name="date" id="date"><br>
+
+        <label for="event-type">Event Type:</label>
+        <select name="event-type" id="event-type">
+            <option value="Blocked">Blocked</option>
+            <option value="Unblocked">Unblocked</option>
+            <option value="Alloted">Alloted</option>
+            <option value="Sold">Sold</option>
+        </select><br>
+
+        <label for="account">Account:</label>
+        <textarea name="account" id="account"></textarea><br>
+        
+        <label for="account">Account:</label>
+        <select name="account" id="account" multiple>
+            {% for user in users %}
+                <option value="{{ user }}">{{ user }}</option>
+            {% endfor %}
+        </select><br>
+
+        <label for="money">Money:</label>
+        <input type="text" name="money" id="money"><br>
+
+        <button type="submit">Save Transaction</button>
+    </form>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

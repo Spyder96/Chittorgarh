@@ -1,0 +1,187 @@
+[
+    {
+        "IPO_Name": "Concord Biotech IPO",
+        "Price": 14820,
+        "Date": "08-08-2023",
+        "Event_Type": "Blocked",
+        "Account": "me,\nFarheen,\nSubbu,\nn,\nsagar,\npapa,\nma,\nhamza pop",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "SBFC Finance IPO",
+        "Price": 14820,
+        "Date": "07-08-2023",
+        "Event_Type": "Blocked",
+        "Account": "puja,\nbenazir,\nme,\nFarheen",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "SBFC Finance IPO",
+        "Price": 14820,
+        "Date": "07-08-2023",
+        "Event_Type": "Blocked",
+        "Account": "Subbu",
+        "Money": "subbu"
+    },
+    {
+        "IPO_Name": "SBFC Finance IPO",
+        "Price": 14820,
+        "Date": "07-08-2023",
+        "Event_Type": "Blocked",
+        "Account": "sagar,\npapa,\nma",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "SBFC Finance IPO",
+        "Price": 14820,
+        "Date": "07-08-2023",
+        "Event_Type": "Blocked",
+        "Account": "n",
+        "Money": "n"
+    },
+    {
+        "IPO_Name": "Yatharth Hospital IPO",
+        "Price": 15000,
+        "Date": "28-07-2023",
+        "Event_Type": "Blocked",
+        "Account": "puja,\nbenazir,\nme,\nFarheen,\nSubbu,\nn,\nsagar,\npapa,\nma,\nhamza",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "Yatharth Hospital IPO",
+        "Price": 15000,
+        "Date": "04-08-2023",
+        "Event_Type": "Alloted",
+        "Account": "me",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "SBFC Finance IPO",
+        "Price": 14820,
+        "Date": "14-08-2023",
+        "Event_Type": "Alloted",
+        "Account": "puja,\nma,\nhamza pop",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "SBFC Finance IPO",
+        "Price": 14820,
+        "Date": "11-08-2023",
+        "Event_Type": "Unblocked",
+        "Account": "benazir,\nme,\nFarheen,\nSubbu,\nn,\nsagar,\npapa",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "Concord Biotech IPO",
+        "Price": 14820,
+        "Date": "14-08-2023",
+        "Event_Type": "Unblocked",
+        "Account": "me,\nFarheen,\nSubbu,\nn,\nsagar,\nma,\nhamza pop",
+        "Money": "NA"
+    },
+    {
+        "IPO_Name": "Concord Biotech IPO",
+        "Price": 14820,
+        "Date": "17-08-2023",
+        "Event_Type": "Alloted",
+        "Account": "papa",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "Cyient DLM IPO",
+        "Price": 14840,
+        "Date": "06-07-2023",
+        "Event_Type": "Alloted",
+        "Account": "papa",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "Cyient DLM IPO",
+        "Price": 27239,
+        "Date": "15-07-2023",
+        "Event_Type": "Sold",
+        "Account": "papa",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "Cyient DLM IPO",
+        "Price": "14840.0",
+        "Date": "06-07-2023",
+        "Event_Type": "Alloted",
+        "Account": "Subbu",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "Cyient DLM IPO",
+        "Price": "18840.0",
+        "Date": "27-07-2023",
+        "Event_Type": "Sold",
+        "Account": "Subbu",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "Udayshivakumar Infra IPO",
+        "Price": "14980.0",
+        "Date": "31-03-2023",
+        "Event_Type": "Alloted",
+        "Account": "hamza",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "Udayshivakumar Infra IPO",
+        "Price": "12710.31",
+        "Date": "12-07-2023",
+        "Event_Type": "Sold",
+        "Account": "hamza",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "SBFC Finance IPO",
+        "Price": "23329.32",
+        "Date": "18-08-2023",
+        "Event_Type": "Sold",
+        "Account": "puja",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "Yatharth Hospital IPO",
+        "Price": "15831.55",
+        "Date": "17-08-2023",
+        "Event_Type": "Sold",
+        "Account": "me",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "Cyient DLM IPO",
+        "Price": "14840.0",
+        "Date": "30-06-2023",
+        "Event_Type": "Blocked",
+        "Account": "puja,\nbenazir,\nme,\nFarheen",
+        "Money": "me"
+    },
+    {
+        "IPO_Name": "Cyient DLM IPO",
+        "Price": "14840.0",
+        "Date": "30-06-2023",
+        "Event_Type": "Blocked",
+        "Account": "Subbu,\nn,\nsagar,\npapa,\nma",
+        "Money": "not me"
+    },
+    {
+        "IPO_Name": "Cyient DLM IPO",
+        "Price": "14840.0",
+        "Date": "05-07-2023",
+        "Event_Type": "Unblocked",
+        "Account": "puja,\nbenazir,\nme,\nFarheen,\nn,\nsagar,\nma",
+        "Money": "NA"
+    },
+    {
+        "IPO_Name": "Udayshivakumar Infra IPO",
+        "Price": "14980.0",
+        "Date": "23-03-2023",
+        "Event_Type": "Blocked",
+        "Account": "me,\nhamza",
+        "Money": "me"
+    }
+
+]
