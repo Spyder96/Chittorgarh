@@ -13,10 +13,15 @@
     "Listing_At": "BSE, NSE",
     "Share_holding_pre_issue": "44,457,140",
     "Share_holding_post_issue": "50,464,084",
-    "Investor_Category": "Shares Offered",
-    "QIB_Shares_Offered": "Not less than 75% of the Net Issue",
-    "Retail_Shares_Offered": "Not more than 10% of the Net Issue",
-    "NII_(HNI)_Shares_Offered": "Not more than 15% of the Net Issue",
+    "Investor_Category": "Maximum Allottees",
+    "Anchor_Investor_Shares_Offered": "NA",
+    "QIB_Shares_Offered": "NA",
+    "NII_(HNI)_Shares_Offered": "",
+    "bNII_>_₹10L": "2,063",
+    "sNII_<_₹10L": "1,031",
+    "Retail_Shares_Offered": "28,893",
+    "Employee_Shares_Offered": "NA",
+    "Total_Shares_Offered": "",
     "Bid_Date": "March 1, 2024",
     "Shares_Offered": "6,500,937",
     "Anchor_Portion_Size_(In_Cr.)": "187.23",
@@ -49,5 +54,5 @@
     "P/E_(x)": "91.63",
     "Review_By": "Avoid",
     "Brokers": "0",
-    "Members": "0"
+    "Members": "1"
 }
