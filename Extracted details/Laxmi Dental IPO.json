@@ -12,9 +12,13 @@
     "Listing_At": "BSE, NSE",
     "Share_Holding_Pre_Issue": "46.56%",
     "Share_Holding_Post_Issue": "",
-    "QIB_Shares_Offered": "Not less than 75% of the Net Issue",
-    "Retail_Shares_Offered": "Not more than 10% of the Offer",
-    "NII_(HNI)_Shares_Offered": "Not more than 15% of the Offer",
+    "Anchor_Investor_Shares_Offered": "NA",
+    "QIB_Shares_Offered": "NA",
+    "NII_(HNI)_Shares_Offered": "",
+    "bNII_>_10L": "3,294",
+    "sNII_<_10L": "1,647",
+    "Retail_Shares_Offered": "49,423",
+    "Total_Shares_Offered": "",
     "Bid_Date": "January 10, 2025",
     "Shares_Offered": "73,39,395",
     "Anchor_Portion_Size_(In_Cr.)": "314.13",
@@ -40,5 +44,5 @@
     "EPS_(Rs)": "8.27",
     "P/E_(x)": "51.73",
     "Brokers": "0",
-    "Members": "0"
+    "Members": "1"
 }
