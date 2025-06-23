@@ -3,10 +3,11 @@
     "IPO_Date": "June 18, 2025 to June 20, 2025",
     "Listing_Date": "[.]",
     "Face_Value": "2 per share",
-    "Issue_Price_Band": "210 to 222 per share",
+    "Issue_Price": "222 per share",
     "Lot_Size": "67 Shares",
-    "Total_Issue_Size__": "2,25,04,324 shares (aggregating up to 499.60 Cr)",
-    "Fresh_Issue_": "2,25,04,324 shares (aggregating up to 499.60 Cr)",
+    "Sale_Type": "Fresh Capital",
+    "Total_Issue_Size": "2,25,04,324 shares (aggregating up to 499.60 Cr)",
+    "Net_Offered_to_Public": "2,25,04,324 shares (aggregating up to 499.60 Cr)",
     "Issue_Type": "Bookbuilding IPO",
     "Listing_At": "BSE, NSE",
     "Share_Holding_Pre_Issue": "51.67%",
@@ -42,5 +43,5 @@
     "EPS_(Rs)": "",
     "P/E_(x)": "",
     "Brokers": "2",
-    "Members": "0"
+    "Members": "2"
 }
