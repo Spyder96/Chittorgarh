@@ -1,12 +1,12 @@
 {
     "Company Name": "Brigade Hotel Ventures IPO",
     "IPO_Date": "July 24, 2025 to July 28, 2025",
-    "Listing_Date": "[.]",
+    "Listing_Date": "July 31, 2025",
     "Face_Value": "10 per share",
-    "Issue_Price_Band": "85 to 90 per share",
+    "Issue_Price": "90 per share",
     "Lot_Size": "166 Shares",
     "Sale_Type": "Fresh Capital",
-    "Total_Issue_Size": "8,44,00,000 shares (aggregating up to 759.60 Cr)",
+    "Total_Issue_Size": "8,44,12,765 shares (aggregating up to 759.60 Cr)",
     "Employee_Discount": "3.00 ",
     "Issue_Type": "Bookbuilding IPO",
     "Listing_At": "BSE, NSE",
@@ -45,8 +45,8 @@
     "PAT_Margin": "5.03%",
     "EBITDA_Margin": "35.45%",
     "Price_to_Book_Value": "32.26",
-    "EPS_(Rs)": "",
-    "P/E_(x)": "",
+    "EPS_(Rs)": "0.62",
+    "P/E_(x)": "144.48",
     "Brokers": "0",
-    "Members": "0"
+    "Members": "1"
 }
