@@ -1,0 +1,186 @@
+{
+    "Company_Name": "Emmvee Photovoltaic Power IPO",
+    "IPO_Date": "11 to 13 Nov, 2025",
+    "Listed_on": "Tue, Nov 18, 2025",
+    "Face_Value": "₹ 2 per share",
+    "Price_Band": "₹206 to ₹217",
+    "Issue_Price": "₹217 per share",
+    "Lot_Size": 69,
+    "Sale_Type": "Fresh Capital & OFS",
+    "Issue_Type": "Bookbuilding IPO",
+    "Listing_At": "BSE, NSE",
+    "Total_Issue_Size": "13,36,40,552 shares (agg. up to ₹ 2,900 Cr)",
+    "Fresh_Issue": "9,87,95,483 shares (agg. up to ₹ 2,144 Cr)",
+    "Offer_for_Sale": "3,48,45,069 shares of ₹ 2 (agg. up to ₹ 756 Cr)",
+    "Share_Holding_Pre_Issue": "59,35,49,550 shares",
+    "Share_Holding_Post_Issue": "69,23,45,033 shares",
+    "BSE_Script_Code": "544608",
+    "NSE_Symbol": "EMMVEE",
+    "ISIN": "INE1C6T01020",
+    "IPOOpen": "11-11-2025",
+    "IPOClose": "13-11-2025",
+    "Allotment": "14-11-2025",
+    "Refund": "17-11-2025",
+    "Credit_of_Shares": "17-11-2025",
+    "Listing": "18-11-2025",
+    "reservation_details": {
+        "QIB": {
+            "shares": 100230415,
+            "percent": 75.0,
+            "max_allottees": null,
+            "children": {
+                "Anchor Investor": {
+                    "shares": 60138249,
+                    "percent": 45.0,
+                    "max_allottees": null
+                },
+                "QIB (Ex. Anchor)": {
+                    "shares": 40092166,
+                    "percent": 30.0,
+                    "max_allottees": null
+                }
+            }
+        },
+        "NII_(HNI)": {
+            "shares": 20046082,
+            "percent": 15.0,
+            "max_allottees": null,
+            "children": {
+                "bNII > ₹10L": {
+                    "shares": 13364054,
+                    "percent": 10.0,
+                    "max_allottees": 13834
+                },
+                "sNII < ₹10L": {
+                    "shares": 6682028,
+                    "percent": 5.0,
+                    "max_allottees": 6917
+                }
+            }
+        },
+        "Retail": {
+            "shares": 13364055,
+            "percent": 10.0,
+            "max_allottees": 193681,
+            "children": {}
+        },
+        "Total": {
+            "shares": 133640552,
+            "percent": 100.0,
+            "max_allottees": null,
+            "children": {}
+        }
+    },
+    "lot_size_values": {
+        "Retail_(Min)": 14973,
+        "Retail_(Max)": 194649,
+        "S-HNI_(Min)": 209622,
+        "S-HNI_(Max)": 988218,
+        "B-HNI_(Min)": 1003191
+    },
+    "anchor_related_information": {
+        "Bid_Date": "Mon, Nov 10, 2025",
+        "Shares_Offered": 60138249,
+        "Anchor_Portion_(₹_Cr.)": 1305.0,
+        "Anchor_lock-in_period_end_date_for_50%_shares_(30_Days)": "Sat, Dec 13, 2025",
+        "Anchor_lock-in_period_end_date_for_remaining_shares_(90_Days)": "Wed, Feb 11, 2026"
+    },
+    "company_financials": {
+        "30-06-2025": {
+            "Assets": 4347.72,
+            "Total_Income": 1042.22,
+            "Profit_After_Tax": 187.68,
+            "EBITDA": 347.38,
+            "NET_Worth": 718.79,
+            "Reserves_and_Surplus": 608.83,
+            "Total_Borrowing": 2032.11
+        },
+        "31-03-2025": {
+            "Assets": 3913.94,
+            "Total_Income": 2360.33,
+            "Profit_After_Tax": 369.01,
+            "EBITDA": 721.94,
+            "NET_Worth": 531.41,
+            "Reserves_and_Surplus": 529.37,
+            "Total_Borrowing": 1949.69
+        },
+        "31-03-2024": {
+            "Assets": 2189.99,
+            "Total_Income": 954.44,
+            "Profit_After_Tax": 28.9,
+            "EBITDA": 120.44,
+            "NET_Worth": 162.77,
+            "Reserves_and_Surplus": 160.73,
+            "Total_Borrowing": 1441.3
+        },
+        "31-03-2023": {
+            "Assets": 840.79,
+            "Total_Income": 644.37,
+            "Profit_After_Tax": 8.97,
+            "EBITDA": 56.27,
+            "NET_Worth": 133.97,
+            "Reserves_and_Surplus": 131.93,
+            "Total_Borrowing": 519.62
+        }
+    },
+    "review_details": {
+        "brokers": {
+            "subscribe": 12,
+            "may_apply": 1,
+            "neutral": 1,
+            "avoid": 0
+        },
+        "members": {
+            "subscribe": 1,
+            "may_apply": 0,
+            "neutral": 0,
+            "avoid": 0
+        }
+    },
+    "ROE": 104.6,
+    "ROCE": 23.33,
+    "Debt/Equity": 3.63,
+    "RoNW": 69.44,
+    "PAT_Margin": 15.8,
+    "EBITDA_Margin": 30.91,
+    "Price_to_Book_Value": 24.25,
+    "pre_ipo_EPS": 6.22,
+    "post_ipo_EPS": 10.84,
+    "pre_ipo_P/E": 34.9,
+    "post_ipo_P/E": 20.01,
+    "pre_ipo_Promoter_Holding": 99.22,
+    "post_ipo_Promoter_Holding": 80.03,
+    "subscription_status": {
+        "QIB": {
+            "shares_offered": 42233010,
+            "shares_bid_for": 53196792,
+            "subscription_times": 1.26
+        },
+        "NII_overall": {
+            "shares_offered": 21116504,
+            "shares_bid_for": 6322194,
+            "subscription_times": 0.3
+        },
+        "NII_bNII": {
+            "shares_offered": 14077670,
+            "shares_bid_for": 2705697,
+            "subscription_times": 0.19
+        },
+        "NII_sNII": {
+            "shares_offered": 7038834,
+            "shares_bid_for": 3616497,
+            "subscription_times": 0.51
+        },
+        "Retail": {
+            "shares_offered": 14077669,
+            "shares_bid_for": 15525552,
+            "subscription_times": 1.1
+        },
+        "total": {
+            "shares_offered": 77427183,
+            "shares_bid_for": 75044538,
+            "subscription_times": 0.97
+        },
+        "total_applications": 175754
+    }
+}

@@ -1,54 +1,195 @@
 {
-    "Company Name": "PhysicsWallah IPO",
-    "IPO_Date": "November 11, 2025 to November 13, 2025",
-    "Listing_Date": "November 18, 2025",
-    "Face_Value": "1 per share",
-    "Issue_Price_Band": "103 to 109 per share",
-    "Lot_Size": "137 Shares",
-    "Sale_Type": "Fresh Capital-cum-Offer for Sale",
-    "Total_Issue_Size": "31,93,30,921 shares (aggregating up to 3,480.71 Cr)",
-    "Fresh_Issue_": "28,44,68,537 shares (aggregating up to 3,100.71 Cr)",
-    "Offer_for_Sale": "3,48,62,384 shares of 1 (aggregating up to 380.00 Cr)",
-    "Employee_Discount": "10.00 ",
+    "Company_Name": "PhysicsWallah IPO",
+    "IPO_Date": "11 to 13 Nov, 2025",
+    "Listed_on": "Tue, Nov 18, 2025",
+    "Face_Value": "₹ 1 per share",
+    "Price_Band": "₹103 to ₹109",
+    "Issue_Price": "₹109 per share",
+    "Lot_Size": 137,
+    "Sale_Type": "Fresh Capital & OFS",
     "Issue_Type": "Bookbuilding IPO",
     "Listing_At": "BSE, NSE",
+    "Employee_Discount": "₹ 10.00",
+    "Total_Issue_Size": "31,93,30,921 shares (agg. up to ₹ 3,480 Cr)",
+    "Fresh_Issue": "28,44,68,537 shares (agg. up to ₹ 3,100 Cr)",
+    "Offer_for_Sale": "3,48,62,384 shares of ₹ 1 (agg. up to ₹ 380 Cr)",
     "Share_Holding_Pre_Issue": "2,60,79,56,938 shares",
     "Share_Holding_Post_Issue": "2,89,24,25,475 shares",
-    "\n\n\nQIB_Shares_Offered": "NA",
-    "_Anchor_Investor_Shares_Offered": "NA",
-    "_QIB_(Ex._Anchor)_Shares_Offered": "NA",
-    "\n\n\nNII_(HNI)_Shares_Offered": "NA",
-    "_bNII_>_10L": "16,612",
-    "_sNII_<_10L": "8,306",
-    "Retail_Shares_Offered": "2,32,572",
-    "Employee_Shares_Offered": "NA",
-    "Total_Shares_Offered": "",
-    "Bid_Date": "November 10, 2025",
-    "Shares_Offered": "14,33,80,733",
-    "Anchor_Portion_Size_(In_Cr.)": "1,562.85",
-    "Anchor_lock-in_period_end_date_for_50%_shares_(30_Days)": "December 14, 2025",
-    "Anchor_lock-in_period_end_date_for_remaining_shares_(90_Days)": "February 12, 2026",
-    "IPO_Open_Date": "Tue, Nov 11, 2025",
-    "IPO_Close_Date": "Thu, Nov 13, 2025",
-    "Tentative_Allotment": "Fri, Nov 14, 2025",
-    "Initiation_of_Refunds": "Mon, Nov 17, 2025",
-    "Credit_of_Shares_to_Demat": "Mon, Nov 17, 2025",
-    "Tentative_Listing_Date": "Tue, Nov 18, 2025",
-    "Cut-off_time_for_UPI_mandate_confirmation": "5 PM on Thu, Nov 13, 2025",
-    "Retail_(Min)\n": "14,933",
-    "Retail_(Max)\n": "1,94,129",
-    "S-HNI_(Min)\n": "2,09,062",
-    "\nS-HNI_(Max)\n": "9,85,578",
-    "\nB-HNI_(Min)\n": "10,00,511",
-    "_Promoter_Holding_Pre_Issue": "81.64%",
-    "Promoter_Holding_Post_Issue": "71.48%",
-    "RoNW": "-12.50%",
-    "PAT_Margin": "-8.43%",
-    "EBITDA_Margin": "6.69%",
-    "Price_to_Book_Value": "14.10",
-    "Market_Capitalization": "31,526.73 Cr.",
-    "EPS_Rs": "-1.76",
-    "P/E_(x)": "-62.06",
-    "Brokers": "1",
-    "Members": "6"
+    "BSE_Script_Code": "544609",
+    "NSE_Symbol": "PWL",
+    "ISIN": "INE0LP301011",
+    "IPOOpen": "11-11-2025",
+    "IPOClose": "13-11-2025",
+    "Allotment": "14-11-2025",
+    "Refund": "17-11-2025",
+    "Credit_of_Shares": "17-11-2025",
+    "Listing": "18-11-2025",
+    "reservation_details": {
+        "QIB": {
+            "shares": 238967889,
+            "percent": 74.83,
+            "max_allottees": null,
+            "children": {
+                "Anchor Investor": {
+                    "shares": 143380733,
+                    "percent": 44.9,
+                    "max_allottees": null
+                },
+                "QIB (Ex. Anchor)": {
+                    "shares": 95587156,
+                    "percent": 29.93,
+                    "max_allottees": null
+                }
+            }
+        },
+        "NII_(HNI)": {
+            "shares": 47793577,
+            "percent": 14.97,
+            "max_allottees": null,
+            "children": {
+                "bNII > ₹10L": {
+                    "shares": 31862385,
+                    "percent": 9.98,
+                    "max_allottees": 16612
+                },
+                "sNII < ₹10L": {
+                    "shares": 15931192,
+                    "percent": 4.99,
+                    "max_allottees": 8306
+                }
+            }
+        },
+        "Retail": {
+            "shares": 31862385,
+            "percent": 9.98,
+            "max_allottees": 232572,
+            "children": {}
+        },
+        "Employee": {
+            "shares": 707070,
+            "percent": 0.22,
+            "max_allottees": null,
+            "children": {}
+        },
+        "Total": {
+            "shares": 319330921,
+            "percent": 100.0,
+            "max_allottees": null,
+            "children": {}
+        }
+    },
+    "lot_size_values": {
+        "Retail_(Min)": 14933,
+        "Retail_(Max)": 194129,
+        "S-HNI_(Min)": 209062,
+        "S-HNI_(Max)": 985578,
+        "B-HNI_(Min)": 1000511
+    },
+    "anchor_related_information": {
+        "Bid_Date": "Mon, Nov 10, 2025",
+        "Shares_Offered": 143380733,
+        "Anchor_Portion_(₹_Cr.)": 1562.85,
+        "Anchor_lock-in_period_end_date_for_50%_shares_(30_Days)": "Sat, Dec 13, 2025",
+        "Anchor_lock-in_period_end_date_for_remaining_shares_(90_Days)": "Wed, Feb 11, 2026"
+    },
+    "company_financials": {
+        "30-06-2025": {
+            "Assets": 5075.67,
+            "Total_Income": 905.41,
+            "Profit_After_Tax": -127.01,
+            "EBITDA": -21.22,
+            "NET_Worth": 1867.92,
+            "Reserves_and_Surplus": 787.92,
+            "Total_Borrowing": 1.55
+        },
+        "31-03-2025": {
+            "Assets": 4156.38,
+            "Total_Income": 3039.09,
+            "Profit_After_Tax": -243.26,
+            "EBITDA": 193.2,
+            "NET_Worth": 1945.37,
+            "Reserves_and_Surplus": 467.06,
+            "Total_Borrowing": 0.33
+        },
+        "31-03-2024": {
+            "Assets": 2480.74,
+            "Total_Income": 2015.35,
+            "Profit_After_Tax": -1131.13,
+            "EBITDA": -829.35,
+            "NET_Worth": -861.79,
+            "Reserves_and_Surplus": -1254.74,
+            "Total_Borrowing": 1687.4
+        },
+        "31-03-2023": {
+            "Assets": 2082.18,
+            "Total_Income": 772.54,
+            "Profit_After_Tax": -84.08,
+            "EBITDA": 13.86,
+            "NET_Worth": 62.29,
+            "Reserves_and_Surplus": -187.65,
+            "Total_Borrowing": 956.15
+        }
+    },
+    "review_details": {
+        "brokers": {
+            "subscribe": 8,
+            "may_apply": 0,
+            "neutral": 2,
+            "avoid": 1
+        },
+        "members": {
+            "subscribe": 2,
+            "may_apply": 0,
+            "neutral": 0,
+            "avoid": 6
+        }
+    },
+    "RoNW": -12.5,
+    "PAT_Margin": -8.43,
+    "EBITDA_Margin": 6.69,
+    "Price_to_Book_Value": 14.1,
+    "pre_ipo_EPS": -0.93,
+    "post_ipo_EPS": "NA",
+    "pre_ipo_P/E": -116.86,
+    "post_ipo_P/E": "NA",
+    "pre_ipo_Promoter_Holding": 81.64,
+    "post_ipo_Promoter_Holding": 71.48,
+    "subscription_status": {
+        "summary": {
+            "total_subscription_times": 1.92,
+            "as_of": "November 13, 2025 6:19:37 PM",
+            "day": "Day 3"
+        },
+        "QIB": {
+            "shares_offered": 95538505,
+            "shares_bid_for": 273575848,
+            "subscription_times": 2.86
+        },
+        "NII_overall": {
+            "shares_offered": 47783848,
+            "shares_bid_for": 24424223,
+            "subscription_times": 0.51
+        },
+        "NII_bNII": {
+            "shares_offered": 31855898,
+            "shares_bid_for": 18567610,
+            "subscription_times": 0.58
+        },
+        "NII_sNII": {
+            "shares_offered": 15927949,
+            "shares_bid_for": 5856613,
+            "subscription_times": 0.37
+        },
+        "Retail": {
+            "shares_offered": 31855898,
+            "shares_bid_for": 36372678,
+            "subscription_times": 1.14
+        },
+        "total": {
+            "shares_offered": 175885322,
+            "shares_bid_for": 336999450,
+            "subscription_times": 1.92
+        },
+        "total_applications": 203927
+    }
 }

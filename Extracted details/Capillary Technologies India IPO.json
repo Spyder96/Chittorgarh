@@ -1,0 +1,197 @@
+{
+    "Company_Name": "Capillary Technologies India IPO",
+    "IPO_Date": "14 to 18 Nov, 2025",
+    "Listed_on": "Fri, Nov 21, 2025",
+    "Face_Value": "₹ 2 per share",
+    "Price_Band": "₹549 to ₹577",
+    "Issue_Price": "₹577 per share",
+    "Lot_Size": 25,
+    "Sale_Type": "Fresh Capital & OFS",
+    "Issue_Type": "Bookbuilding IPO",
+    "Listing_At": "BSE, NSE",
+    "Employee_Discount": "₹ 52.00",
+    "Total_Issue_Size": "1,52,11,431 shares (agg. up to ₹ 878 Cr)",
+    "Fresh_Issue": "59,82,635 shares (agg. up to ₹ 345 Cr)",
+    "Offer_for_Sale": "92,28,796 shares of ₹ 2 (agg. up to ₹ 532 Cr)",
+    "Share_Holding_Pre_Issue": "7,33,29,138 shares",
+    "Share_Holding_Post_Issue": "7,93,11,773 shares",
+    "BSE_Script_Code": "544614",
+    "NSE_Symbol": "CAPILLARY",
+    "ISIN": "INE0ILV01024",
+    "IPOOpen": "14-11-2025",
+    "IPOClose": "18-11-2025",
+    "Allotment": "19-11-2025",
+    "Refund": "20-11-2025",
+    "Credit_of_Shares": "20-11-2025",
+    "Listing": "21-11-2025",
+    "reservation_details": {
+        "QIB": {
+            "shares": 11380003,
+            "percent": 74.81,
+            "max_allottees": null,
+            "children": {
+                "Anchor Investor": {
+                    "shares": 6828001,
+                    "percent": 44.89,
+                    "max_allottees": null
+                },
+                "QIB (Ex. Anchor)": {
+                    "shares": 4552002,
+                    "percent": 29.92,
+                    "max_allottees": null
+                }
+            }
+        },
+        "NII_(HNI)": {
+            "shares": 2276000,
+            "percent": 14.96,
+            "max_allottees": null,
+            "children": {
+                "bNII > ₹10L": {
+                    "shares": 1517334,
+                    "percent": 9.97,
+                    "max_allottees": 4335
+                },
+                "sNII < ₹10L": {
+                    "shares": 758666,
+                    "percent": 4.99,
+                    "max_allottees": 2167
+                }
+            }
+        },
+        "Retail": {
+            "shares": 1517333,
+            "percent": 9.97,
+            "max_allottees": 60693,
+            "children": {}
+        },
+        "Employee": {
+            "shares": 38095,
+            "percent": 0.25,
+            "max_allottees": null,
+            "children": {}
+        },
+        "Total": {
+            "shares": 15211431,
+            "percent": 100.0,
+            "max_allottees": null,
+            "children": {}
+        }
+    },
+    "lot_size_values": {
+        "Retail_(Min)": 14425,
+        "Retail_(Max)": 187525,
+        "S-HNI_(Min)": 201950,
+        "S-HNI_(Max)": 995325,
+        "B-HNI_(Min)": 1009750
+    },
+    "anchor_related_information": {
+        "Bid_Date": "Thu, Nov 13, 2025",
+        "Shares_Offered": 6828001,
+        "Anchor_Portion_(₹_Cr.)": 393.98,
+        "Anchor_lock-in_period_end_date_for_50%_shares_(30_Days)": "Thu, Dec 18, 2025",
+        "Anchor_lock-in_period_end_date_for_remaining_shares_(90_Days)": "Mon, Feb 16, 2026"
+    },
+    "company_financials": {
+        "30-09-2025": {
+            "Assets": 892.33,
+            "Total_Income": 362.56,
+            "Profit_After_Tax": 1.03,
+            "EBITDA": 39.82,
+            "NET_Worth": 509.38,
+            "Reserves_and_Surplus": 149.34,
+            "Total_Borrowing": 88.94
+        },
+        "31-03-2025": {
+            "Assets": 838.65,
+            "Total_Income": 611.87,
+            "Profit_After_Tax": 14.15,
+            "EBITDA": 78.57,
+            "NET_Worth": 481.42,
+            "Reserves_and_Surplus": 170.26,
+            "Total_Borrowing": 100.09
+        },
+        "31-03-2024": {
+            "Assets": 871.07,
+            "Total_Income": 535.44,
+            "Profit_After_Tax": -68.35,
+            "EBITDA": -1.49,
+            "NET_Worth": 452.13,
+            "Reserves_and_Surplus": 30.89,
+            "Total_Borrowing": 77.17
+        },
+        "31-03-2023": {
+            "Assets": 466.41,
+            "Total_Income": 266.25,
+            "Profit_After_Tax": -88.56,
+            "EBITDA": -58.34,
+            "NET_Worth": 99.75,
+            "Reserves_and_Surplus": 31.99,
+            "Total_Borrowing": 147.47
+        }
+    },
+    "review_details": {
+        "brokers": {
+            "subscribe": 1,
+            "may_apply": 0,
+            "neutral": 2,
+            "avoid": 2
+        },
+        "members": {
+            "subscribe": 2,
+            "may_apply": 0,
+            "neutral": 0,
+            "avoid": 1
+        }
+    },
+    "ROCE": 2.76,
+    "Debt/Equity": 0.18,
+    "RoNW": 2.85,
+    "PAT_Margin": 2.37,
+    "EBITDA_Margin": 13.13,
+    "Price_to_Book_Value": 8.87,
+    "pre_ipo_EPS": 1.93,
+    "post_ipo_EPS": 0.26,
+    "pre_ipo_P/E": 298.93,
+    "post_ipo_P/E": 2214.95,
+    "pre_ipo_Promoter_Holding": 67.95,
+    "post_ipo_Promoter_Holding": 52.05,
+    "subscription_status": {
+        "summary": {
+            "total_subscription_times": 52.98,
+            "as_of": "November 18, 2025 6:19:33 PM",
+            "day": "Day 3"
+        },
+        "QIB": {
+            "shares_offered": 4549427,
+            "shares_bid_for": 260687700,
+            "subscription_times": 57.3
+        },
+        "NII_overall": {
+            "shares_offered": 2275486,
+            "shares_bid_for": 158944725,
+            "subscription_times": 69.85
+        },
+        "NII_bNII": {
+            "shares_offered": 1516990,
+            "shares_bid_for": 129579300,
+            "subscription_times": 85.42
+        },
+        "NII_sNII": {
+            "shares_offered": 758495,
+            "shares_bid_for": 29365425,
+            "subscription_times": 38.72
+        },
+        "Retail": {
+            "shares_offered": 1516990,
+            "shares_bid_for": 24043775,
+            "subscription_times": 15.85
+        },
+        "total": {
+            "shares_offered": 8379998,
+            "shares_bid_for": 443938300,
+            "subscription_times": 52.98
+        },
+        "total_applications": 992263
+    }
+}

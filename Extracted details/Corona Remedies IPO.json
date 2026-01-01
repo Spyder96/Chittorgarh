@@ -1,0 +1,196 @@
+{
+    "Company_Name": "Corona Remedies IPO",
+    "IPO_Date": "8 to 10 Dec, 2025",
+    "Listed_on": "Mon, Dec 15, 2025",
+    "Face_Value": "₹ 10 per share",
+    "Price_Band": "₹1008 to ₹1062",
+    "Issue_Price": "₹1062 per share",
+    "Lot_Size": 14,
+    "Sale_Type": "Offer For Sale",
+    "Issue_Type": "Bookbuilding IPO",
+    "Listing_At": "BSE, NSE",
+    "Employee_Discount": "₹ 54.00",
+    "Total_Issue_Size": "61,74,051 shares (agg. up to ₹ 655 Cr)",
+    "Share_Holding_Pre_Issue": "6,11,60,088 shares",
+    "Share_Holding_Post_Issue": "6,11,60,088 shares",
+    "BSE_Script_Code": "544644",
+    "NSE_Symbol": "CORONA",
+    "ISIN": "INE02ZQ01018",
+    "IPOOpen": "08-12-2025",
+    "IPOClose": "10-12-2025",
+    "Allotment": "11-12-2025",
+    "Refund": "12-12-2025",
+    "Credit_of_Shares": "12-12-2025",
+    "Listing": "15-12-2025",
+    "reservation_details": {
+        "QIB": {
+            "shares": 3058007,
+            "percent": 49.53,
+            "max_allottees": null,
+            "children": {
+                "Anchor Investor": {
+                    "shares": 1834804,
+                    "percent": 29.72,
+                    "max_allottees": null
+                },
+                "QIB (Ex. Anchor)": {
+                    "shares": 1223203,
+                    "percent": 19.81,
+                    "max_allottees": null
+                }
+            }
+        },
+        "NII_(HNI)": {
+            "shares": 917403,
+            "percent": 14.86,
+            "max_allottees": null,
+            "children": {
+                "bNII > ₹10L": {
+                    "shares": 611602,
+                    "percent": 9.91,
+                    "max_allottees": 3120
+                },
+                "sNII < ₹10L": {
+                    "shares": 305801,
+                    "percent": 4.95,
+                    "max_allottees": 1560
+                }
+            }
+        },
+        "Retail": {
+            "shares": 2140606,
+            "percent": 34.67,
+            "max_allottees": 152900,
+            "children": {}
+        },
+        "Employee": {
+            "shares": 58035,
+            "percent": 0.94,
+            "max_allottees": null,
+            "children": {}
+        },
+        "Total": {
+            "shares": 6174051,
+            "percent": 100.0,
+            "max_allottees": null,
+            "children": {}
+        }
+    },
+    "lot_size_values": {
+        "Retail_(Min)": 14868,
+        "Retail_(Max)": 193284,
+        "S-HNI_(Min)": 208152,
+        "S-HNI_(Max)": 996156,
+        "B-HNI_(Min)": 1011024
+    },
+    "anchor_related_information": {
+        "Bid_Date": "Fri, Dec 5, 2025",
+        "Shares_Offered": 1834804,
+        "Anchor_Portion_(₹_Cr.)": 194.86,
+        "Anchor_lock-in_period_end_date_for_50%_shares_(30_Days)": "Fri, Jan 9, 2026",
+        "Anchor_lock-in_period_end_date_for_remaining_shares_(90_Days)": "Tue, Mar 10, 2026"
+    },
+    "company_financials": {
+        "30-06-2025": {
+            "Assets": 1012.38,
+            "Total_Income": 348.56,
+            "Profit_After_Tax": 46.2,
+            "EBITDA": 71.8,
+            "NET_Worth": 607.02,
+            "Reserves_and_Surplus": 545.86,
+            "Total_Borrowing": 106.65
+        },
+        "31-03-2025": {
+            "Assets": 929.86,
+            "Total_Income": 1202.35,
+            "Profit_After_Tax": 149.43,
+            "EBITDA": 245.91,
+            "NET_Worth": 606.34,
+            "Reserves_and_Surplus": 545.18,
+            "Total_Borrowing": 62.7
+        },
+        "31-03-2024": {
+            "Assets": 830.58,
+            "Total_Income": 1020.93,
+            "Profit_After_Tax": 90.5,
+            "EBITDA": 161.19,
+            "NET_Worth": 480.41,
+            "Reserves_and_Surplus": 419.25,
+            "Total_Borrowing": 134.14
+        },
+        "31-03-2023": {
+            "Assets": 595.02,
+            "Total_Income": 891.1,
+            "Profit_After_Tax": 84.93,
+            "EBITDA": 135.03,
+            "NET_Worth": 408.52,
+            "Reserves_and_Surplus": 347.36,
+            "Total_Borrowing": 2.33
+        }
+    },
+    "review_details": {
+        "brokers": {
+            "subscribe": 13,
+            "may_apply": 1,
+            "neutral": 0,
+            "avoid": 0
+        },
+        "members": {
+            "subscribe": 0,
+            "may_apply": 0,
+            "neutral": 0,
+            "avoid": 0
+        }
+    },
+    "ROE": 27.5,
+    "ROCE": 41.32,
+    "Debt/Equity": 0.1,
+    "RoNW": 24.65,
+    "PAT_Margin": 12.49,
+    "EBITDA_Margin": 20.55,
+    "Price_to_Book_Value": 10.71,
+    "pre_ipo_EPS": 24.43,
+    "post_ipo_EPS": 30.21,
+    "pre_ipo_P/E": 43.47,
+    "post_ipo_P/E": 35.15,
+    "pre_ipo_Promoter_Holding": 72.5,
+    "post_ipo_Promoter_Holding": 69.0,
+    "subscription_status": {
+        "summary": {
+            "total_subscription_times": 144.54,
+            "as_of": "December 10, 2025 6:19:37 PM",
+            "day": "Day 3"
+        },
+        "QIB": {
+            "shares_offered": 1221729,
+            "shares_bid_for": 358939448,
+            "subscription_times": 293.8
+        },
+        "NII_overall": {
+            "shares_offered": 916960,
+            "shares_bid_for": 201897066,
+            "subscription_times": 220.18
+        },
+        "NII_bNII": {
+            "shares_offered": 611307,
+            "shares_bid_for": 150793356,
+            "subscription_times": 246.67
+        },
+        "NII_sNII": {
+            "shares_offered": 305653,
+            "shares_bid_for": 51103710,
+            "subscription_times": 167.2
+        },
+        "Retail": {
+            "shares_offered": 2139573,
+            "shares_bid_for": 65020704,
+            "subscription_times": 30.39
+        },
+        "total": {
+            "shares_offered": 4336298,
+            "shares_bid_for": 626760106,
+            "subscription_times": 144.54
+        },
+        "total_applications": 4187186
+    }
+}

@@ -1,0 +1,200 @@
+{
+    "Company_Name": "ICICI Prudential Asset Management Co. IPO",
+    "IPO_Date": "12 to 16 Dec, 2025",
+    "Listed_on": "Fri, Dec 19, 2025",
+    "Face_Value": "₹ 1 per share",
+    "Price_Band": "₹2061 to ₹2165",
+    "Issue_Price": "₹2165 per share",
+    "Lot_Size": 6,
+    "Sale_Type": "Offer For Sale",
+    "Issue_Type": "Bookbuilding IPO",
+    "Listing_At": "BSE, NSE",
+    "Total_Issue_Size": "4,89,72,994 shares (agg. up to ₹ 10,603 Cr)",
+    "Share_Holding_Pre_Issue": "49,42,58,520 shares",
+    "Share_Holding_Post_Issue": "49,42,58,520 shares",
+    "BSE_Script_Code": "544658",
+    "NSE_Symbol": "ICICIAMC",
+    "ISIN": "INE346A01027",
+    "IPOOpen": "12-12-2025",
+    "IPOClose": "16-12-2025",
+    "Allotment": "17-12-2025",
+    "Refund": "18-12-2025",
+    "Credit_of_Shares": "18-12-2025",
+    "Listing": "19-12-2025",
+    "reservation_details": {
+        "QIB": {
+            "shares": 23262172,
+            "percent": 47.5,
+            "max_allottees": null,
+            "children": {
+                "Anchor Investor": {
+                    "shares": 13957303,
+                    "percent": 28.5,
+                    "max_allottees": null
+                },
+                "QIB (Ex. Anchor)": {
+                    "shares": 9304869,
+                    "percent": 19.0,
+                    "max_allottees": null
+                }
+            }
+        },
+        "NII_(HNI)": {
+            "shares": 6978652,
+            "percent": 14.25,
+            "max_allottees": null,
+            "children": {
+                "bNII > ₹10L": {
+                    "shares": 4652435,
+                    "percent": 9.5,
+                    "max_allottees": 48462
+                },
+                "sNII < ₹10L": {
+                    "shares": 2326217,
+                    "percent": 4.75,
+                    "max_allottees": 24231
+                }
+            }
+        },
+        "Retail": {
+            "shares": 16283521,
+            "percent": 33.25,
+            "max_allottees": 2713920,
+            "children": {}
+        },
+        "Shareholders": {
+            "shares": 2448649,
+            "percent": 5.0,
+            "max_allottees": null,
+            "children": {}
+        },
+        "Total": {
+            "shares": 48972994,
+            "percent": 100.0,
+            "max_allottees": null,
+            "children": {}
+        }
+    },
+    "lot_size_values": {
+        "Retail_(Min)": 12990,
+        "Retail_(Max)": 194850,
+        "S-HNI_(Min)": 207840,
+        "S-HNI_(Max)": 987240,
+        "B-HNI_(Min)": 1000230
+    },
+    "anchor_related_information": {
+        "Bid_Date": "Thu, Dec 11, 2025",
+        "Shares_Offered": 13957303,
+        "Anchor_Portion_(₹_Cr.)": 3021.76,
+        "Anchor_lock-in_period_end_date_for_50%_shares_(30_Days)": "Thu, Jan 15, 2026",
+        "Anchor_lock-in_period_end_date_for_remaining_shares_(90_Days)": "Mon, Mar 16, 2026"
+    },
+    "company_financials": {
+        "30-09-2025": {
+            "Assets": 4827.34,
+            "Total_Income": 2949.61,
+            "Profit_After_Tax": 1617.74,
+            "EBITDA": 2210.1,
+            "NET_Worth": 3921.56,
+            "Reserves_and_Surplus": 3903.91
+        },
+        "31-03-2025": {
+            "Assets": 4383.68,
+            "Total_Income": 4979.67,
+            "Profit_After_Tax": 2650.66,
+            "EBITDA": 3636.99,
+            "NET_Worth": 3516.94,
+            "Reserves_and_Surplus": 3432.85
+        },
+        "30-09-2024": {
+            "Assets": 4096.74,
+            "Total_Income": 2458.23,
+            "Profit_After_Tax": 1327.11,
+            "EBITDA": 1837.55,
+            "NET_Worth": 3272.28,
+            "Reserves_and_Surplus": 3254.63
+        },
+        "31-03-2024": {
+            "Assets": 3554.09,
+            "Total_Income": 3761.21,
+            "Profit_After_Tax": 2049.73,
+            "EBITDA": 2780.01,
+            "NET_Worth": 2882.84,
+            "Reserves_and_Surplus": 2798.75
+        },
+        "31-03-2023": {
+            "Assets": 2804.76,
+            "Total_Income": 2838.18,
+            "Profit_After_Tax": 1515.78,
+            "EBITDA": 2072.58,
+            "NET_Worth": 2313.06,
+            "Reserves_and_Surplus": 2228.97
+        }
+    },
+    "review_details": {
+        "brokers": {
+            "subscribe": 21,
+            "may_apply": 4,
+            "neutral": 2,
+            "avoid": 0
+        },
+        "members": {
+            "subscribe": 5,
+            "may_apply": 1,
+            "neutral": 0,
+            "avoid": 1
+        }
+    },
+    "ROE": 82.8,
+    "RoNW": 82.8,
+    "Price_to_Book_Value": 30.41,
+    "pre_ipo_EPS": 53.63,
+    "post_ipo_EPS": 65.46,
+    "pre_ipo_P/E": 40.37,
+    "post_ipo_P/E": 33.07,
+    "pre_ipo_Promoter_Holding": 100.0,
+    "post_ipo_Promoter_Holding": 90.09,
+    "subscription_status": {
+        "summary": {
+            "total_subscription_times": 39.17,
+            "as_of": "December 16, 2025 6:19:38 PM",
+            "day": "Day 3"
+        },
+        "QIB": {
+            "shares_offered": 9304869,
+            "shares_bid_for": 1152559968,
+            "subscription_times": 123.87
+        },
+        "NII_overall": {
+            "shares_offered": 6978652,
+            "shares_bid_for": 153789432,
+            "subscription_times": 22.04
+        },
+        "NII_bNII": {
+            "shares_offered": 4652435,
+            "shares_bid_for": 118247880,
+            "subscription_times": 25.42
+        },
+        "NII_sNII": {
+            "shares_offered": 2326217,
+            "shares_bid_for": 35541552,
+            "subscription_times": 15.28
+        },
+        "Retail": {
+            "shares_offered": 16283521,
+            "shares_bid_for": 41262042,
+            "subscription_times": 2.53
+        },
+        "Shareholders": {
+            "shares_offered": 2448649,
+            "shares_bid_for": 23876874,
+            "subscription_times": 9.75
+        },
+        "total": {
+            "shares_offered": 35015691,
+            "shares_bid_for": 1371488316,
+            "subscription_times": 39.17
+        },
+        "total_applications": 5507138
+    }
+}

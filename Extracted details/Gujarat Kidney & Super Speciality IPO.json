@@ -1,0 +1,189 @@
+{
+    "Company_Name": "Gujarat Kidney & Super Speciality IPO",
+    "IPO_Date": "22 to 24 Dec, 2025",
+    "Listed_on": "Tue, Dec 30, 2025",
+    "Face_Value": "₹ 2 per share",
+    "Price_Band": "₹108 to ₹114",
+    "Issue_Price": "₹114 per share",
+    "Lot_Size": 128,
+    "Sale_Type": "Fresh Capital",
+    "Issue_Type": "Bookbuilding IPO",
+    "Listing_At": "BSE, NSE",
+    "Total_Issue_Size": "2,20,00,000 shares (agg. up to ₹ 251 Cr)",
+    "Share_Holding_Pre_Issue": "5,68,43,250 shares",
+    "Share_Holding_Post_Issue": "7,88,43,250 shares",
+    "BSE_Script_Code": "544666",
+    "NSE_Symbol": "GKSL",
+    "ISIN": "INE0V0W01025",
+    "IPOOpen": "22-12-2025",
+    "IPOClose": "24-12-2025",
+    "Allotment": "26-12-2025",
+    "Refund": "29-12-2025",
+    "Credit_of_Shares": "29-12-2025",
+    "Listing": "30-12-2025",
+    "reservation_details": {
+        "QIB": {
+            "shares": 16500000,
+            "percent": 75.0,
+            "max_allottees": null,
+            "children": {
+                "Anchor Investor": {
+                    "shares": 8773120,
+                    "percent": 39.88,
+                    "max_allottees": null
+                },
+                "QIB (Ex. Anchor)": {
+                    "shares": 7726880,
+                    "percent": 35.12,
+                    "max_allottees": null
+                }
+            }
+        },
+        "NII_(HNI)": {
+            "shares": 3300000,
+            "percent": 15.0,
+            "max_allottees": null,
+            "children": {
+                "bNII > ₹10L": {
+                    "shares": 2200000,
+                    "percent": 10.0,
+                    "max_allottees": 1227
+                },
+                "sNII < ₹10L": {
+                    "shares": 1100000,
+                    "percent": 5.0,
+                    "max_allottees": 613
+                }
+            }
+        },
+        "Retail": {
+            "shares": 2200000,
+            "percent": 10.0,
+            "max_allottees": 17187,
+            "children": {}
+        },
+        "Total": {
+            "shares": 22000000,
+            "percent": 100.0,
+            "max_allottees": null,
+            "children": {}
+        }
+    },
+    "lot_size_values": {
+        "Retail_(Min)": 14592,
+        "Retail_(Max)": 189696,
+        "S-HNI_(Min)": 204288,
+        "S-HNI_(Max)": 992256,
+        "B-HNI_(Min)": 1006848
+    },
+    "anchor_related_information": {
+        "Bid_Date": "Fri, Dec 19, 2025",
+        "Shares_Offered": 8773120,
+        "Anchor_Portion_(₹_Cr.)": 100.01,
+        "Anchor_lock-in_period_end_date_for_50%_shares_(30_Days)": "Sat, Jan 24, 2026",
+        "Anchor_lock-in_period_end_date_for_remaining_shares_(90_Days)": "Wed, Mar 25, 2026"
+    },
+    "company_financials": {
+        "30-06-2025": {
+            "Assets": 61.59,
+            "Total_Income": 15.27,
+            "Profit_After_Tax": 5.4,
+            "EBITDA": 8.63,
+            "NET_Worth": 30.56,
+            "Reserves_and_Surplus": 19.42,
+            "Total_Borrowing": 4.03
+        },
+        "31-03-2025": {
+            "Assets": 55.34,
+            "Total_Income": 40.4,
+            "Profit_After_Tax": 9.5,
+            "EBITDA": 16.55,
+            "NET_Worth": 25.71,
+            "Reserves_and_Surplus": 14.57,
+            "Total_Borrowing": 3.88
+        },
+        "31-03-2024": {
+            "Assets": 20.53,
+            "Total_Income": 5.48,
+            "Profit_After_Tax": 1.71,
+            "EBITDA": 1.95,
+            "NET_Worth": 10.8,
+            "Reserves_and_Surplus": 10.6,
+            "Total_Borrowing": 1.94
+        },
+        "31-03-2023": {
+            "Assets": 3.87,
+            "Total_Income": 0.0,
+            "Profit_After_Tax": -0.01,
+            "EBITDA": -0.01,
+            "NET_Worth": 0.37,
+            "Reserves_and_Surplus": 0.17,
+            "Total_Borrowing": "NA"
+        }
+    },
+    "review_details": {
+        "brokers": {
+            "subscribe": 5,
+            "may_apply": 1,
+            "neutral": 3,
+            "avoid": 1
+        },
+        "members": {
+            "subscribe": 1,
+            "may_apply": 0,
+            "neutral": 0,
+            "avoid": 0
+        }
+    },
+    "ROE": 36.61,
+    "ROCE": 37.65,
+    "Debt/Equity": 0.15,
+    "RoNW": 36.61,
+    "PAT_Margin": 23.61,
+    "EBITDA_Margin": 41.12,
+    "Price_to_Book_Value": 22.62,
+    "pre_ipo_EPS": 1.85,
+    "post_ipo_EPS": 2.74,
+    "pre_ipo_P/E": 61.62,
+    "post_ipo_P/E": 41.59,
+    "pre_ipo_Promoter_Holding": 99.1,
+    "post_ipo_Promoter_Holding": 71.45,
+    "subscription_status": {
+        "summary": {
+            "total_subscription_times": 5.21,
+            "as_of": "December 24, 2025 6:19:34 PM",
+            "day": "Day 3"
+        },
+        "QIB": {
+            "shares_offered": 7726880,
+            "shares_bid_for": 8188928,
+            "subscription_times": 1.06
+        },
+        "NII_overall": {
+            "shares_offered": 3300000,
+            "shares_bid_for": 18899840,
+            "subscription_times": 5.73
+        },
+        "NII_bNII": {
+            "shares_offered": 2200000,
+            "shares_bid_for": 11552896,
+            "subscription_times": 5.25
+        },
+        "NII_sNII": {
+            "shares_offered": 1100000,
+            "shares_bid_for": 7346944,
+            "subscription_times": 6.68
+        },
+        "Retail": {
+            "shares_offered": 2200000,
+            "shares_bid_for": 41880320,
+            "subscription_times": 19.04
+        },
+        "total": {
+            "shares_offered": 13226880,
+            "shares_bid_for": 68969088,
+            "subscription_times": 5.21
+        },
+        "total_applications": 259831
+    }
+}
