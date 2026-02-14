@@ -1,0 +1,196 @@
+{
+    "Company_Name": "Fractal Analytics IPO",
+    "IPO_Date": "9 to 11 Feb, 2026",
+    "Listing_Date": "Mon, Feb 16, 2026 T",
+    "Face_Value": "₹ 1 per share",
+    "Price_Band": "₹857 to ₹900",
+    "Issue_Price": "₹900 per share",
+    "Lot_Size": 16,
+    "Sale_Type": "Fresh Capital & OFS",
+    "Issue_Type": "Bookbuilding IPO",
+    "Listing_At": "BSE, NSE",
+    "Employee_Discount": "₹ 85.00",
+    "Total_Issue_Size": "3,15,57,305 shares (agg. up to ₹ 2,840 Cr)",
+    "Fresh_Issue": "1,14,41,751 shares (agg. up to ₹ 1,030 Cr)",
+    "Offer_for_Sale": "2,01,15,554 shares of ₹ 1 (agg. up to ₹ 1,810 Cr)",
+    "Share_Holding_Pre_Issue": "16,05,56,718 shares",
+    "Share_Holding_Post_Issue": "17,19,98,469 shares",
+    "IPOOpen": "09-02-2026",
+    "IPOClose": "11-02-2026",
+    "Allotment": "12-02-2026",
+    "Refund": "13-02-2026",
+    "Credit_of_Shares": "13-02-2026",
+    "Listing": "16-02-2026",
+    "reservation_details": {
+        "QIB": {
+            "shares": 23115833,
+            "percent": 73.25,
+            "max_allottees": null,
+            "children": {
+                "Anchor Investor": {
+                    "shares": 13869499,
+                    "percent": 43.95,
+                    "max_allottees": null
+                },
+                "QIB (Ex. Anchor)": {
+                    "shares": 9246334,
+                    "percent": 29.3,
+                    "max_allottees": null
+                }
+            }
+        },
+        "NII_(HNI)": {
+            "shares": 4623166,
+            "percent": 14.65,
+            "max_allottees": null,
+            "children": {
+                "bNII > ₹10L": {
+                    "shares": 3082111,
+                    "percent": 9.77,
+                    "max_allottees": 13759
+                },
+                "sNII < ₹10L": {
+                    "shares": 1541055,
+                    "percent": 4.88,
+                    "max_allottees": 6879
+                }
+            }
+        },
+        "Retail": {
+            "shares": 3082110,
+            "percent": 9.77,
+            "max_allottees": 192631,
+            "children": {}
+        },
+        "Employee": {
+            "shares": 736196,
+            "percent": 2.33,
+            "max_allottees": null,
+            "children": {}
+        },
+        "Total": {
+            "shares": 31557305,
+            "percent": 100.0,
+            "max_allottees": null,
+            "children": {}
+        }
+    },
+    "lot_size_values": {
+        "Retail_(Min)": 14400,
+        "Retail_(Max)": 187200,
+        "S-HNI_(Min)": 201600,
+        "S-HNI_(Max)": 993600,
+        "B-HNI_(Min)": 1008000
+    },
+    "anchor_related_information": {
+        "Bid_Date": "Fri, Feb 6, 2026",
+        "Shares_Offered": 13869499,
+        "Anchor_Portion_(₹_Cr.)": 1248.25,
+        "Anchor_lock-in_period_end_date_for_50%_shares_(30_Days)": "Sat, Mar 14, 2026",
+        "Anchor_lock-in_period_end_date_for_remaining_shares_(90_Days)": "Wed, May 13, 2026"
+    },
+    "company_financials": {
+        "30-09-2025": {
+            "Assets": 2965.4,
+            "Total_Income": 1594.3,
+            "Profit_After_Tax": 70.9,
+            "EBITDA": 185.6,
+            "NET_Worth": 1957.5,
+            "Reserves_and_Surplus": 1937.1,
+            "Total_Borrowing": 274.6
+        },
+        "31-03-2025": {
+            "Assets": 2857.6,
+            "Total_Income": 2816.2,
+            "Profit_After_Tax": 220.6,
+            "EBITDA": 398.0,
+            "NET_Worth": 1748.3,
+            "Reserves_and_Surplus": 1728.7,
+            "Total_Borrowing": 266.2
+        },
+        "31-03-2024": {
+            "Assets": 2392.0,
+            "Total_Income": 2241.9,
+            "Profit_After_Tax": -54.7,
+            "EBITDA": 97.2,
+            "NET_Worth": 1397.0,
+            "Reserves_and_Surplus": 1380.5,
+            "Total_Borrowing": 250.1
+        },
+        "31-03-2023": {
+            "Assets": 2248.7,
+            "Total_Income": 2043.7,
+            "Profit_After_Tax": 194.4,
+            "EBITDA": 436.8,
+            "NET_Worth": 1339.2,
+            "Reserves_and_Surplus": 1323.1,
+            "Total_Borrowing": 325.6
+        }
+    },
+    "review_details": {
+        "brokers": {
+            "subscribe": 9,
+            "may_apply": 0,
+            "neutral": 2,
+            "avoid": 0
+        },
+        "members": {
+            "subscribe": 1,
+            "may_apply": 0,
+            "neutral": 0,
+            "avoid": 0
+        }
+    },
+    "KPIs": {
+        "RoNW": 3.6,
+        "PAT_Margin": 4.5,
+        "EBITDA_Margin": 11.9,
+        "Price_to_Book_Value": "NA",
+        "pre_ipo_EPS": 13.74,
+        "post_ipo_EPS": 8.25,
+        "pre_ipo_P/E": 65.5,
+        "post_ipo_P/E": 109.12,
+        "pre_ipo_Promoter_Holding": 18.19,
+        "post_ipo_Promoter_Holding": 16.98,
+        "pre_ipo_Market_Cap": 15473.6,
+        "post_ipo_Market_Cap": "NA"
+    },
+    "subscription_status": {
+        "summary": {
+            "total_subscription_times": 2.81,
+            "as_of": "February 11, 2026 6:19:34 PM",
+            "day": "Day 3"
+        },
+        "QIB": {
+            "shares_offered": 9194187,
+            "shares_bid_for": 40555344,
+            "subscription_times": 4.41
+        },
+        "NII_overall": {
+            "shares_offered": 4612737,
+            "shares_bid_for": 5127088,
+            "subscription_times": 1.11
+        },
+        "NII_bNII": {
+            "shares_offered": 3075158,
+            "shares_bid_for": 3805904,
+            "subscription_times": 1.24
+        },
+        "NII_sNII": {
+            "shares_offered": 1537579,
+            "shares_bid_for": 1321184,
+            "subscription_times": 0.86
+        },
+        "Retail": {
+            "shares_offered": 3075158,
+            "shares_bid_for": 3385824,
+            "subscription_times": 1.1
+        },
+        "total": {
+            "shares_offered": 17618278,
+            "shares_bid_for": 49544208,
+            "subscription_times": 2.81
+        },
+        "total_applications": 145596
+    }
+}

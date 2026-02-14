@@ -1,0 +1,192 @@
+{
+    "Company_Name": "Amagi Media Labs IPO",
+    "IPO_Date": "13 to 16 Jan, 2026",
+    "Listed_on": "Wed, Jan 21, 2026",
+    "Face_Value": "₹ 5 per share",
+    "Price_Band": "₹343 to ₹361",
+    "Issue_Price": "₹361 per share",
+    "Lot_Size": 41,
+    "Sale_Type": "Fresh Capital & OFS",
+    "Issue_Type": "Bookbuilding IPO",
+    "Listing_At": "BSE, NSE",
+    "Total_Issue_Size": "4,95,46,221 shares (agg. up to ₹ 1,789 Cr)",
+    "Fresh_Issue": "2,26,03,878 shares (agg. up to ₹ 816 Cr)",
+    "Offer_for_Sale": "2,69,42,343 shares of ₹ 5 (agg. up to ₹ 973 Cr)",
+    "Share_Holding_Pre_Issue": "19,37,35,066 shares",
+    "Share_Holding_Post_Issue": "21,63,38,944 shares",
+    "BSE_Script_Code": "544679",
+    "NSE_Symbol": "AMAGI",
+    "ISIN": "INE121R01077",
+    "IPOOpen": "13-01-2026",
+    "IPOClose": "16-01-2026",
+    "Allotment": "19-01-2026",
+    "Refund": "20-01-2026",
+    "Credit_of_Shares": "20-01-2026",
+    "Listing": "21-01-2026",
+    "reservation_details": {
+        "QIB": {
+            "shares": 37159666,
+            "percent": 75.0,
+            "max_allottees": null,
+            "children": {
+                "Anchor Investor": {
+                    "shares": 22295799,
+                    "percent": 45.0,
+                    "max_allottees": null
+                },
+                "QIB (Ex. Anchor)": {
+                    "shares": 14863867,
+                    "percent": 30.0,
+                    "max_allottees": null
+                }
+            }
+        },
+        "NII_(HNI)": {
+            "shares": 7431933,
+            "percent": 15.0,
+            "max_allottees": null,
+            "children": {
+                "bNII > ₹10L": {
+                    "shares": 4954622,
+                    "percent": 10.0,
+                    "max_allottees": 8631
+                },
+                "sNII < ₹10L": {
+                    "shares": 2477311,
+                    "percent": 5.0,
+                    "max_allottees": 4315
+                }
+            }
+        },
+        "Retail": {
+            "shares": 4954622,
+            "percent": 10.0,
+            "max_allottees": 120844,
+            "children": {}
+        },
+        "Total": {
+            "shares": 49546221,
+            "percent": 100.0,
+            "max_allottees": null,
+            "children": {}
+        }
+    },
+    "lot_size_values": {
+        "Retail_(Min)": 14801,
+        "Retail_(Max)": 192413,
+        "S-HNI_(Min)": 207214,
+        "S-HNI_(Max)": 991667,
+        "B-HNI_(Min)": 1006468
+    },
+    "anchor_related_information": {
+        "Bid_Date": "Mon, Jan 12, 2026",
+        "Shares_Offered": 22295799,
+        "Anchor_Portion_(₹_Cr.)": 804.88,
+        "Anchor_lock-in_period_end_date_for_50%_shares_(30_Days)": "Tue, Feb 17, 2026",
+        "Anchor_lock-in_period_end_date_for_remaining_shares_(90_Days)": "Sat, Apr 18, 2026"
+    },
+    "company_financials": {
+        "30-09-2025": {
+            "Assets": 1352.16,
+            "Total_Income": 733.93,
+            "Profit_After_Tax": 6.47,
+            "EBITDA": 58.23,
+            "NET_Worth": 859.34,
+            "Reserves_and_Surplus": -25.57,
+            "Total_Borrowing": 0.0
+        },
+        "31-03-2025": {
+            "Assets": 1425.0,
+            "Total_Income": 1223.31,
+            "Profit_After_Tax": -68.71,
+            "EBITDA": 23.49,
+            "NET_Worth": 509.45,
+            "Reserves_and_Surplus": 227.73,
+            "Total_Borrowing": 0.0
+        },
+        "31-03-2024": {
+            "Assets": 1308.08,
+            "Total_Income": 942.24,
+            "Profit_After_Tax": -245.0,
+            "EBITDA": -155.53,
+            "NET_Worth": 496.8,
+            "Reserves_and_Surplus": -379.4,
+            "Total_Borrowing": 0.0
+        },
+        "31-03-2023": {
+            "Assets": 1405.96,
+            "Total_Income": 724.72,
+            "Profit_After_Tax": -321.27,
+            "EBITDA": -140.34,
+            "NET_Worth": 644.49,
+            "Reserves_and_Surplus": -372.68,
+            "Total_Borrowing": 0.0
+        }
+    },
+    "review_details": {
+        "brokers": {
+            "subscribe": 7,
+            "may_apply": 1,
+            "neutral": 3,
+            "avoid": 1
+        },
+        "members": {
+            "subscribe": 0,
+            "may_apply": 0,
+            "neutral": 0,
+            "avoid": 0
+        }
+    },
+    "KPIs": {
+        "RoNW": 0.75,
+        "PAT_Margin": 0.88,
+        "EBITDA_Margin": 8.26,
+        "Price_to_Book_Value": 8.61,
+        "pre_ipo_EPS": -3.55,
+        "post_ipo_EPS": 0.6,
+        "pre_ipo_P/E": -101.78,
+        "post_ipo_P/E": 603.54,
+        "pre_ipo_Promoter_Holding": 15.76,
+        "post_ipo_Promoter_Holding": 14.14,
+        "pre_ipo_Market_Cap": 7809.84,
+        "post_ipo_Market_Cap": "NA"
+    },
+    "subscription_status": {
+        "summary": {
+            "total_subscription_times": 30.24,
+            "as_of": "January 16, 2026 6:19:58 PM",
+            "day": "Day 3"
+        },
+        "QIB": {
+            "shares_offered": 14863867,
+            "shares_bid_for": 492423817,
+            "subscription_times": 33.13
+        },
+        "NII_overall": {
+            "shares_offered": 7431933,
+            "shares_bid_for": 284334877,
+            "subscription_times": 38.26
+        },
+        "NII_bNII": {
+            "shares_offered": 4954622,
+            "shares_bid_for": 219201416,
+            "subscription_times": 44.24
+        },
+        "NII_sNII": {
+            "shares_offered": 2477311,
+            "shares_bid_for": 65133461,
+            "subscription_times": 26.29
+        },
+        "Retail": {
+            "shares_offered": 4954622,
+            "shares_bid_for": 47253566,
+            "subscription_times": 9.54
+        },
+        "total": {
+            "shares_offered": 27250422,
+            "shares_bid_for": 824012260,
+            "subscription_times": 30.24
+        },
+        "total_applications": 1164157
+    }
+}
